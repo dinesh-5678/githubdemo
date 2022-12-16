@@ -252,6 +252,7 @@ Q99. Write a python program to print below pattern.
 1 2 3 
 1 2 3 4 
 1 2 3 4 5
+
 Q100. Write a python program to print below pattern.
 
 A 
